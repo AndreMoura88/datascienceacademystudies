@@ -24,4 +24,4 @@ if 1 <= x <= 4:
     print("A sua operação é:")
     print(f"{a} {operador} {b} = {round(c, 2)}")
 else:
-    print('Opção inválida')
+    print('Opção inválida')# datascienceacademystudies
